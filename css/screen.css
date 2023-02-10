@@ -35,4 +35,4 @@ input[type=submit]:hover, input[type=reset]:hover {
   input[type=date], input[type=email], input[type=tel] {
     width: 65%;
        }
-  
+}
