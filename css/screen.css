@@ -31,7 +31,7 @@ input[type=submit]:hover, input[type=reset]:hover {
 @media (minwidth: 1024px) {
   label {
     width: 200px;
-    }
+       }
   body {
     width 200px;
        }
